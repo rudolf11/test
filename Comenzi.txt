@@ -1,0 +1,6 @@
+git clone "URL" 
+git pull (download)
+git push (upload)
+
+git add .
+git commit -m "am adaugat ceva"
